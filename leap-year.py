@@ -17,7 +17,7 @@ a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
 b = a*9/5+32
 
 print("Alaktu movik movik")
-print()
+print("hasan has made some changes here while peopel were sleeping hhhhh ")
 print()
 print()
 print(b)
