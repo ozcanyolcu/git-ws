@@ -11,8 +11,6 @@ def CheckLeap(Year):
     print ("Given Year is not a leap Year Cooper")  
     print ("Given Year is not a leap Year Cooper")  
 #sdsadsa Printing result  
-dsadsa
-CheckLdsadsadsadsaeap(Year) 
 
 # Celsius u Fahrenat'e çevirme.
 a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
