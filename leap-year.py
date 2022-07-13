@@ -9,6 +9,7 @@ def CheckLeap(Year):
   # Else it is not a leap year  
   else:  
     print ("Given Year is not a leap Year Cooper")  
+    print ("Given Year is not a leap Year Cooper")  
 #sdsadsa Printing result  
 dsadsa
 CheckLdsadsadsadsaeap(Year) 
@@ -17,4 +18,8 @@ CheckLdsadsadsadsaeap(Year)
 a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
 b = a*9/5+32
 
+print("Alaktu movik movik")
+print()
+print()
+print()
 print(b)
